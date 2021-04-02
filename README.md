@@ -7,3 +7,9 @@ Laboratory work on the discipline "Databases" performed using Microsoft SQL Serv
 - [x] Laboratory work № 5 Multi-table SELECT queries
 - [x] Laboratory work № 6 Using subqueries
 - [x] Laboratory work № 7 Data grouping
+- [x] Laboratory work № 8 Using views
+- [x] Laboratory work № 9 Basic T-SQL Programming
+- [x] Laboratory work № 10 Creating and applying indexes
+- [x] Laboratory work № 11 Processing query results with cursors
+- [x] Laboratory work № 12 Features of using transactions
+- [x] Laboratory work № 13 Stored Procedures
